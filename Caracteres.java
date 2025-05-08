@@ -7,5 +7,7 @@ public class Caracteres {
     System.out.println("Letra=" + letra );
     System.out.println("simbolo=" + simbolo );
     System.out.println("numero=" + numero );
+    System.out.println("Numero Favorito =" + numero );
+
     }
 }

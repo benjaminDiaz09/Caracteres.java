@@ -1,8 +1,8 @@
 public class Caracteres {
     public static void main (String [] args){
-    char letra = 'J';
-    char simbolo ='@' ;
-    char numero= '5';
+    char letra = 'B';
+    char simbolo ='<' ;
+    char numero= '9';
     
     System.out.println("Letra=" + letra );
     System.out.println("simbolo=" + simbolo );
